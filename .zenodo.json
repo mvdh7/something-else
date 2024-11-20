@@ -9,13 +9,13 @@
             "orcid": "1234-5678-1234-5678"
         },
         {
-            "name": "Mienis, Furu",
             "affiliation": "The shed at the end of your garden",
+            "name": "Mienis, Furu",
             "orcid": "6666-6666-6666-6666"
         },
         {
-            "name": "Assorted others",
-            "affiliation": "100 euro is 100 euro"
+            "affiliation": "100 euro is 100 euro",
+            "name": "Assorted others"
         }
     ]
 }
