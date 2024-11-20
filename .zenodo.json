@@ -1,0 +1,21 @@
+{
+    "description": "Test repo description", 
+    "license": "GPL-3.0-only", 
+    "title": "Wow! This is something else", 
+    "creators": [
+        {
+            "affiliation": "Hogwarts School of Witchcraft and Wizardry", 
+            "name": "Humphreys, Matthew",
+            "orcid": "1234-5678-1234-5678"
+        },
+        {
+            "name": "Mienis, Furu",
+            "affiliation": "The shed at the end of your garden",
+            "orcid": "6666-6666-6666-6666"
+        },
+        {
+            "name": "Assorted others",
+            "affiliation": "100 euro is 100 euro"
+        }
+    ]
+}
